@@ -1,0 +1,9 @@
+
+## environment variables file
+.env
+
+## python cache
+__pycache__
+
+## IDE settings
+.vscode/settings.json
